@@ -8,3 +8,5 @@ Features :
 3. Remove the last added task
 4. Responsive and interactive design
 
+Many more changes are need to be committted which includes date upto which the task is considered and time of completion ..
+
